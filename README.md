@@ -95,7 +95,7 @@ mvn clean package nutzboot:shade -Dmaven.test.skip=true
 
 ![avatar](pics/index.jpg)
 
-####自建Gitlab
+#### 自建Gitlab
 其他类型的在以前的demo都有，下面截图是自己搭的gitlab服务
 - 创建应用
   ![avatar](pics/mygitlab_app.jpg)
